@@ -1,0 +1,15 @@
+{
+  "name": "public-mobile-bot",
+  "version": "1.0.0",
+  "description": "Receive rewards for automatically responding to forum questions",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryce Alexander MacInnis",
+  "license": "ISC"
+}
